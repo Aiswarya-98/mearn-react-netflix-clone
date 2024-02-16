@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mearn-react-netflix-clone/static/css/main.d35e1942.css",
+    "main.js": "/mearn-react-netflix-clone/static/js/main.8577c819.js",
+    "static/media/header-image.png": "/mearn-react-netflix-clone/static/media/header-image.d70b0bbb20753fb4bbe5.png",
+    "static/media/feature-4.png": "/mearn-react-netflix-clone/static/media/feature-4.6b46559c6756e1a68d53.png",
+    "static/media/feature_1.png": "/mearn-react-netflix-clone/static/media/feature_1.e05894e3de9408682a64.png",
+    "static/media/feature-3.png": "/mearn-react-netflix-clone/static/media/feature-3.640333595d8077eb00e0.png",
+    "static/media/feature-2.png": "/mearn-react-netflix-clone/static/media/feature-2.684241600d1ca6dd5d30.png",
+    "index.html": "/mearn-react-netflix-clone/index.html",
+    "main.d35e1942.css.map": "/mearn-react-netflix-clone/static/css/main.d35e1942.css.map",
+    "main.8577c819.js.map": "/mearn-react-netflix-clone/static/js/main.8577c819.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d35e1942.css",
+    "static/js/main.8577c819.js"
+  ]
+}
