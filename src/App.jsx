@@ -8,7 +8,7 @@ function App() {
     <div className="App">
      
       <Routes>
-        <Route path="/" element={ <Home />}/>
+        <Route path="/mearn-react-netflix-clone" element={ <Home />}/>
         <Route path="/main" element={<Main/>} />
       </Routes>
 
